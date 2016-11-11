@@ -53,6 +53,22 @@ rosinstallÊÇROSÖĞ¾­³£Ê¹ÓÃµÄÃüÁîĞĞ¹¤¾ß£¬ËüÊÇµ¥¶À·Ö·¢µÄ¡£ËüÊ¹ÄúÄÜ¹»Ê¹ÓÃÒ»¸öÃüÁîÇáË
 ?ÏÖÔÚÖ»ÊÇapt-getÔ´£¨sudo²»ĞèÒª£©ÈçÏÂ¡£ÄãÉõÖÁ²»ĞèÒªÃ÷È·Ö¸¶¨deb-srcÌõÄ¿µÈ¡£Õâ´Ó·şÎñÆ÷ÏÂÔØÁË·¢²¼µÄÈí¼ş°üÖĞµÄËùÓĞÎÄ¼ş£¨Ò²°üÀ¨Ã»ÓĞ°²×°ÔÚ°²×°¹æÔòÖĞµÄ¶«Î÷£¨ÀıÈçCMakeLists.txt£©£©¡£  
 `apt-get source ros-jade-laser-pipeline`  
 
+##### 8¡¢ÔÚÖÕ¶ËÊäÈë£ºroscore  
+²âÊÔ½á¹û£º  
+![tuian](http://a1.qpic.cn/psb?/V10GqHsq2hIHFE/WplgkG2WK7Zhw*dcbEp.Eb9LBxYrIhnQc4T5NEDxbpc!/c/dNwAAAAAAAAA&ek=1&kp=1&pt=0&bo=JALOASQCzgEDCC0!&sce=60-2-2&rf=0-0)   
+
+ÔÚÖÕ¶ËÊäÈë£º rosrun turtlesim turtlesim_node  
+![tupian](http://a2.qpic.cn/psb?/V10GqHsq2hIHFE/Ak6IY7hl1NGJBqlZk3*5Vx3L2C6EfZk1skMcTy9rTs8!/m/dAkBAAAAAAAA&ek=1&kp=1&pt=0&bo=TgKoAU4CqAEDCC0!&sce=0-12-12&rf=0-18)  
+
+ÔÚÖÕ¶ËÊäÈë£ºrosrun turtlesim turtle_teleop_key 
+ÓÃ¼üÅÌÉÏÏÂ×óÓÒ¼ü¿ØÖÆ Ğ¡ÎÚ¹êÒÆ¶¯
+![tupian](http://a2.qpic.cn/psb?/V10GqHsq2hIHFE/JjiUaysKVUt7WvfrvQ7zLLqojAHpPa5LB*aw7a4q0eU!/m/dAkBAAAAAAAA&ek=1&kp=1&pt=0&bo=EwKkARMCpAEDCC0!&sce=0-12-12&rf=0-18)  
+
+ÔÚÖÕ¶ËÊäÈë£º rosrun rqt_graph rqt_graph  
+ROS½ÚµãÍØÆËÍ¼  
+![tupian](http://a4.qpic.cn/psb?/V10GqHsq2hIHFE/edKmEikLbkt0bz.OCMCzHRG6iNelsZ6SDYDHbZe.hEQ!/c/dHcBAAAAAAAA&ek=1&kp=1&pt=0&bo=JgJIASYCSAEDCC0!&sce=0-12-12&rf=0-18)  
+
+
 
 #### µ½´Ë£¬¾ÍÍê³ÉÁËROS µÄÅäÖÃÁË¡£
 
